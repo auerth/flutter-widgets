@@ -41,25 +41,25 @@ dependencies:
   intl: '>=0.18.1 <0.20.0'
 
   syncfusion_pdfviewer_platform_interface:
-      path: ../syncfusion_pdfviewer_platform_interface
+      path: /packages/syncfusion_pdfviewer_platform_interface
 
   syncfusion_pdfviewer_web:
-      path: ../syncfusion_pdfviewer_web
+      path: /packages/syncfusion_pdfviewer_web
 
   syncfusion_pdfviewer_macos:
-      path: ../syncfusion_pdfviewer_macos
+      path: /packages/syncfusion_pdfviewer_macos
 
   syncfusion_pdfviewer_windows:
-      path: ../syncfusion_pdfviewer_windows
+      path: /packages/syncfusion_pdfviewer_windows
 
   syncfusion_flutter_core:
-      path: ../syncfusion_flutter_core
+      path: /packages/syncfusion_flutter_core
 
   syncfusion_flutter_pdf:
-      path: ../syncfusion_flutter_pdf
+      path: /packages/syncfusion_flutter_pdf
       
   syncfusion_flutter_signaturepad:
-      path: ../syncfusion_flutter_signaturepad
+      path: /packages/syncfusion_flutter_signaturepad
 
   url_launcher: ^6.1.0
 
